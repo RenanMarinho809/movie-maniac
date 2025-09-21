@@ -1,12 +1,34 @@
-# React + Vite
+🎬 Movie Maniac
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O Movie Maniac é uma aplicação em React que exibe uma lista de filmes com informações extraídas da API do The Movie Database (TMDb)
 
-Currently, two official plugins are available:
+🚀 Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📑 Listagem dos filmes mais populares
 
-## Expanding the ESLint configuration
+🔍 Busca de filmes por título
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📝 Exibição de detalhes de cada filme (título, sinopse, nota, data de lançamento, etc.)
+
+🖼️ Exibição de pôster e imagens oficiais
+
+🎭 Interface simples e intuitiva
+
+
+▶️ Como Rodar o Projeto
+
+Clone este repositório:
+
+git@github.com:RenanMarinho809/movie-maniac.git
+
+Entre na pasta do projeto:
+
+cd movie-maniac
+
+Instale as dependências:
+
+npm install
+
+Rode o servidor de desenvolvimento:
+
+npm run dev
